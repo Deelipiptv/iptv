@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:0,ZEE SARTHAK TV
+http://cv.khushitv.xyz/channels.php?c=sarthaktv&e=.m3u8
+#EXTINF:0,ZEE KALINGA TV NEWS
+http://cv.khushitv.xyz/channels.php?c=kalinga&e=.m3u8
+#EXTINF:0,&TV HD USA
+http://cv.khushitv.xyz/channels.php?c=andtvhdusa&e=.m3u8
+#EXTINF:0,&TV SD
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+#EXTINF:0,& PICTURES SD
+http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
+#EXTINF:0,& PICTURES HD
+http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+#EXTINF:0,AND FLIX SD
+http://cv.khushitv.xyz/channels.php?c=andflix&e=.m3u8
+#EXTINF:0,AND FLIX HD
+http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
+#EXTINF:0,ZEE TV HD
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+#EXTINF:0,ZEE TV ME
+http://cv.khushitv.xyz/channels.php?c=ztvme/tracks-v1a1/index.m3u8
+#EXTINF:0,ZEE TV USA SD
+http://cv.khushitv.xyz/channels.php?c=ztvsdusa&e=.m3u8
+#EXTINF:0,ZEE TV USA HD 
+http://cv.khushitv.xyz/channels.php?c=ztvhdusa&e=.m3u8
+#EXTINF:0,ZEE TV ASIA
+http://cv.khushitv.xyz/channels.php?c=apacsea&e=.m3u8
+#EXTINF:0,ZEE TV CANADA
+http://cv.khushitv.xyz/channels.php?c=canadahd&e=.m3u8
+#EXTINF:0,BIG MAGIC
+http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
+#EXTINF:0,BIG GANGA
+http://cv.khushitv.xyz/channels.php?c=bigganga&e=.m3u8
+#EXTINF:0,ZEE LIVING
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/index.m3u8
+#EXTINF:0,ETC PUNJABI
+http://cv.khushitv.xyz/channels.php?c=etcpnjbiusa&e=.m3u8
+#EXTINF:0,ZEE ANMOL
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+#EXTINF:0,ZEE MARATHI USA
+http://cv.khushitv.xyz/channels.php?c=marathiusa&e=.m3u8
+#EXTINF:0,ZEE KERALAM HD
+http://cv.khushitv.xyz/channels.php?c=livingfoodzhd&e=.m3u8
+#EXTINF:0,ZEE MUNDO HD
+http://cv.khushitv.xyz/channels.php?c=mundohd&e=.m3u8
+#EXTINF:0,ZEE MAGIC
+http://cv.khushitv.xyz/channels.php?c=magic&e=.m3u8
+#EXTINF:0,ZEE RUSSIA
+http://cv.khushitv.xyz/channels.php?c=russia&e=.m3u8
+#EXTINF:0,ZEE WORLD
+http://cv.khushitv.xyz/channels.php?c=world&e=.m3u8
+#EXTINF:0,ZING
+http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
+#EXTINF:0,ZEE RAJHASTHAN
+http://cv.khushitv.xyz/channels.php?c=zinguk&e=.m3u8
+#EXTINF:0,ZEE PUNJABI
+http://cv.khushitv.xyz/channels.php?c=punjabi&e=.m3u8
+#EXTINF:0,ZEE MP CG
+http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8
+#EXTINF:0,ZEE KALAK
+http://cv.khushitv.xyz/channels.php?c=kalak&e=.m3u8
+#EXTINF:0,ZEE BIHAR
+http://cv.khushitv.xyz/channels.php?c=biharjharkh&e=.m3u8
+#EXTINF:0,WION
+http://cv.khushitv.xyz/channels.php?c=wion&e=.m3u8
+#EXTINF:0,ZEE ANMOL
+http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
+#EXTINF:0,ZEE VAJWA
+http://cv.khushitv.xyz/channels.php?c=zeevajwa&e=.m3u8
+#EXTINF:0,ZEE ZEST SD
+http://cv.khushitv.xyz/channels.php?c=zzestsd&e=.m3u8
+#EXTINF:0,ZEE ZEST HD
+http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
+#EXTINF:0,ZEE  CINEMA ME
+http://cv.khushitv.xyz/channels.php?c=zeecinemame&e=.m3u8
+#EXTINF:0,ZEE CINEMA HD
+http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
+#EXTINF:0,ZEE CINEMA USA
+http://cv.khushitv.xyz/channels.php?c=cinemausa&e=.m3u8
+#EXTINF:0,ZEE CINEMA UK
+http://cv.khushitv.xyz/channels.php?c=cinemauk&e=.m3u8
+#EXTINF:0,ZEE ANMOL CINEMA
+http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+#EXTINF:0,ZEE CLASSIC
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
+#EXTINF:0,ZEE ACTION
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+#EXTINF:0,ZEE CIMEMALU SD
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
+#EXTINF:0,ZEE BANGLA CINEMA
+http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+#EXTINF:0,ZEE TALKIES SD
+http://cv.khushitv.xyz/channels.php?c=zeetalkies&e=.m3u8
+#EXTINF:0,ZEE TALKIES HD
+http://cv.khushitv.xyz/channels.php?c=ztalkieshd&e=.m3u8
+#EXTINF:0,ZEE CAFE SD
+http://cv.khushitv.xyz/channels.php?c=zeecafesd&e=.m3u8
+#EXTINF:0,ZEE CAFE HD
+http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8
+#EXTINF:0,AND PRIVE HD
+http://cv.khushitv.xyz/channels.php?c=andprivehd/tracks-v4a1&e=.m3u8
+#EXTINF:0,ZEE SMILE USA
+http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
+#EXTINF:0,ZEE5 LOCAL VOCAL MUSIC
+http://cv.khushitv.xyz/channels.php?c=zee5_localvocal&e=.m3u8
+#EXTINF:0,ZEE5 ORIGNALS
+http://cv.khushitv.xyz/channels.php?c=zee5_originals&e=.m3u8
+#EXTINF:0,ZEE5 ROMANCE
+http://cv.khushitv.xyz/channels.php?c=zee5_romance&e=.m3u8
+#EXTINF:0,NONSTOP EDM
+http://cv.khushitv.xyz/channels.php?c=non_stop_edm&e=.m3u8
+#EXTINF:0,ZEE5 PANJABI BEATS
+http://cv.khushitv.xyz/channels.php?c=zee5_pabeats&e=.m3u8
+
+
+
